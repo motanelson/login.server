@@ -24,8 +24,8 @@ HTML_TEMPLATE = """
     <title>Auth System</title>
     <style>
         body {
-            background-color: black;
-            color: white;
+            background-color: Yellow;
+            color: black;
             font-family: Arial, sans-serif;
             display: flex;
             flex-direction: column;
